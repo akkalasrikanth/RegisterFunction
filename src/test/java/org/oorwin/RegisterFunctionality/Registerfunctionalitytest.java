@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Registerfunctionality {
+public class Registerfunctionalitytest {
 	@Test
 	public void registerfunctionalityTestt() {
 		 WebDriverManager.chromedriver().setup();
