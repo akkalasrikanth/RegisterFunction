@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Registerfunctionality {
 	@Test
-	public void registerfunctionality() {
+	public void registerfunctionalityTestt() {
 		 WebDriverManager.chromedriver().setup();
 		 WebDriver driver = new ChromeDriver();
 
